@@ -19,7 +19,7 @@ nav ul li {
  height: 50px;
  list-style: none;
  text-align: center;
- border-bottom: double solid black;
+ padding-top: 20px;
  float:left;
   }
 
@@ -45,7 +45,7 @@ dl {
 
 dt {
  color: red;
- text-decoration: underline;
+ background-color: beige;
 }
 
 dd {
