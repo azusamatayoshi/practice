@@ -3,6 +3,7 @@ header h1 {
  background-color: navy;
  text-align: center;
  height: 150px;
+ padding: auto;
 }
 
 
@@ -27,7 +28,7 @@ nav ul li {
 
 
 main {
-  width: 50%;
+  width: 70%;
  background-color: beige;
  float: left;
 }
@@ -57,11 +58,11 @@ aside h3 {
 }
 
 aside ul {
- background-color: orange;
+ background-color: yellow;
 }
 
 aside ul li {
- background-color: purple;
+ background-color: orange;
 }
 
 
