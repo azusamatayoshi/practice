@@ -39,27 +39,17 @@ main {
   background-color: green;
 }
 
+dl {
+ background-color: pink;
+}
+
 dt {
+ color: red;
  text-decoration: underline;
 }
 
-aside {
- background-color: pink;
- width: 20%;
- float: right;
-
-}
-
-aside h3 {
- background-color: red;
-}
-
-aside ul {
- background-color: yellow;
-}
-
-aside ul li {
- background-color: orange;
+dd {
+ padding: 5px;
 }
 
 
