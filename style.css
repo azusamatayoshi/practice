@@ -50,6 +50,18 @@ aside {
 
 }
 
+aside h3 {
+ background-color: red;
+}
+
+aside ul {
+ background-color: white;
+}
+
+aside ul li {
+ background-color: purple;
+}
+
 
 
 
