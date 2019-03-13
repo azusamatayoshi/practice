@@ -37,7 +37,9 @@ main {
   background-color: green;
 }
 
-
+dt {
+ text-decoration: underline;
+}
 
 aside {
  background-color: pink;
