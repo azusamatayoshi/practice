@@ -1,12 +1,13 @@
-header h1 {
- color: white;
+header {
  background-color: navy;
- text-align: center;
  height: 150px;
- padding: 50px auto 50px;
 }
 
-
+header h1 {
+ color: white;
+ background-color: skyblue;
+ paddhing: 50px;
+}
 
 
 nav ul {
