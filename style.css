@@ -8,14 +8,15 @@ header h1 {
 }
 
 
-nav {
+ul {
  background-color: yellow;
+ border: solid 1px black;
  }
  
  
-nav ul li {
+li {
  background-color: orange;
- width: 120px;
+ width: 150px;
  height: 50px;
  list-style: none;
  text-align: center;
@@ -45,8 +46,8 @@ dl {
 }
 
 dt {
- color: red;
- background-color: beige;
+ color: white;
+ background-color: brown;
 }
 
 dd {
