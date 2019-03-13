@@ -3,7 +3,7 @@ header h1 {
  background-color: navy;
  text-align: center;
  height: 150px;
- padding: auto;
+ padding: 50px auto 50px;
 }
 
 
@@ -34,12 +34,6 @@ main {
 }
 
 
-.clf::after {
-  content: '':
-  display: block;
- clear: both;
-}
-
 .intro {
   background-color: green;
 }
@@ -65,7 +59,11 @@ aside ul li {
  background-color: orange;
 }
 
-
+.clf::after {
+ content:'';
+ display: block;
+ clear: both;
+}
 
 
 footer {
