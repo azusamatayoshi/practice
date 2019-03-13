@@ -13,7 +13,14 @@ nav ul {
  
 nav ul li {
  background-color: orange;
+ width: 100px;
   }
+
+
+
+
+
+
 
 main {
   width: 70%;
