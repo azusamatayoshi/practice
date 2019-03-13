@@ -25,6 +25,14 @@ nav ul li {
 main {
   width: 70%;
  background-color: yellow;
+ float: left;
+}
+
+
+.clf::after {
+  content: '':
+   display: block;
+ clear: both;
 }
 
 .intro {
@@ -36,14 +44,10 @@ main {
 aside {
  background-color: #ffcccc;
  width: 25%;
- float: right;
+
 }
 
-.clearfix::after {
- content: '';
- display: block;
- clear: both;
-}
+
 
 
 footer {
