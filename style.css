@@ -40,7 +40,7 @@ main {
 aside {
  background-color: pink;
  width: 20%;
- 
+ float: right;
 
 }
 
@@ -68,7 +68,7 @@ footer {
 
 footer p{
  color: white;
- margin-top: 50px;
+ padding-top: 50px;
 }
 
 
