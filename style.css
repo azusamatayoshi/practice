@@ -31,3 +31,19 @@ main {
   background-color: #ccff99;
 }
 
+
+
+aside {
+ background-color: #ffcccc;
+ width: 25%;
+ float: right;
+}
+
+
+footer {
+  background-color: #cccccc;
+ text-align: center;
+}
+
+
+
