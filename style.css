@@ -27,7 +27,7 @@ div {
 main {
   width: 70%;
  background-color: beige;
-
+ float: left;
 }
 
 
@@ -67,7 +67,7 @@ footer {
 }
 
 footer p{
- padding: auto;
+ margin: auto;
 }
 
 
