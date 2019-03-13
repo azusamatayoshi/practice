@@ -61,7 +61,11 @@ aside ul li {
 }
 
 
-
+.clf::after{
+ content: "";
+ display: block;
+ clear: both;
+}
 
 
 footer {
