@@ -1,3 +1,11 @@
+header h1 {
+ background-color: #9999ff;
+ text-align: center;
+}
+
+
+
+
 nav ul {
  background-color: yellow;
  }
@@ -15,3 +23,4 @@ main {
 .intro {
   background-color: #ccff99;
 }
+
