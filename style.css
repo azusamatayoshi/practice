@@ -4,13 +4,14 @@ body {
 
 
 header h1 {
- background-color: skyblue;
+ background-color: #ccffff;
  padding: 50px;
  text-align: center;
 }
 
 
 nav {
+ margin: 0;
  box-sizing: border-box;
  text-align: center;
  }
@@ -27,7 +28,7 @@ li {
 
 div {
  border: solid 2px blue;
- margin-top: 5px;
+ margin-top: 0 auto;
 }
 
 main {
@@ -40,7 +41,7 @@ p {
 }
 
 dl {
- background-color: pink;
+ background-color: #ffcccc;
 }
 
 dt {
