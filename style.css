@@ -23,6 +23,7 @@ li {
  width: 100px;
  height: 100px;
  border-radius: 30%;
+ padding: 30px;
   }
 
 div {
@@ -63,9 +64,8 @@ dd {
 
 footer {
  color: white;
-  background-color: gray;
- text-align: center;
- padding-top: 80%;
+  background-color: lightgray;
+ padding: 50px;
  height: 100px;
 }
 
