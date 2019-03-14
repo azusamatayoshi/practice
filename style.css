@@ -11,6 +11,7 @@ header h1 {
 
 
 nav {
+ background-color: yellow;
  margin: 0;
  box-sizing: border-box;
  text-align: center;
@@ -27,7 +28,7 @@ li {
   }
 
 div {
- border: solid 2px blue;
+ border-top: dotted 10px blue;
  margin-top: 0 auto;
 }
 
@@ -37,7 +38,7 @@ main {
 }
 
 p {
- line-height:150%;
+ line-height: 2em;
 }
 
 dl {
@@ -47,7 +48,7 @@ dl {
 dt {
  font-weight: bold;
  border-left:solid 8px blue;
- padding-left: 5px;
+ padding-left: 8px;
 }
 
 dd {
