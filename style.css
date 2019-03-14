@@ -6,7 +6,7 @@ body {
 
 header h1 {
  text-align: center;
- padding: 100px;
+ padding: 50px;
 }
 
 
@@ -15,7 +15,11 @@ nav {
  text-align: center;
  }
  
+ul {
+ padding-left: 0;
+}
  
+
 li {
  background-color: beige;
  border: solid 3px #000066;
@@ -31,7 +35,7 @@ div {
 }
 
 main {
- margin: 100px;
+ margin: 50px 100px;
 }
 
 p {
