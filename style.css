@@ -18,7 +18,8 @@ nav {
 li {
  background-color: orange;
  display: inline-block;
- width: 25%;
+ width: 20%;
+ 
   }
 
 div {
@@ -37,7 +38,7 @@ main {
 }
 
 .intro p{
- inline-height: 3em;
+ inline-height: 50;
 }
 
 dl {
@@ -66,13 +67,13 @@ dd {
 footer {
   background-color: gray;
  text-align: center;
+ vertical-align: bottom;
  height: 100px;
 }
 
 footer p{
  color: white;
  background-color: black;
- margin-bottom: 0;
 }
 
 
