@@ -11,6 +11,7 @@ header h1 {
 nav {
  background-color: yellow;
  border: solid 1px black;
+ text-align: center;
  height: 80px;
  }
  
@@ -20,6 +21,7 @@ li {
  box-sizing: border-box;
  list-style: none;
  text-align: center;
+ padding: 50px;
  float:left;
   }
 
@@ -36,6 +38,9 @@ main {
 
 .intro {
   background-color: green;
+}
+
+.intro p{
  inline-height: 5;
 }
 
@@ -47,7 +52,7 @@ dt {
  color: white;
  font-weight: bold;
  background-color: brown;
- padding: 5px;
+ padding: 10px;
 }
 
 dd {
@@ -70,6 +75,7 @@ footer {
 
 footer p{
  color: white;
+ background-color: black;
  vertical-align: bottom;
 }
 
