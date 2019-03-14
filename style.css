@@ -21,6 +21,7 @@ li {
  background-color: beige;
  border: solid 3px blue;
  display: inline-block;
+ width:100px;
  border-radius: 30%;
  padding: 30px;
   }
@@ -42,14 +43,11 @@ dl {
 
 dt {
  font-weight: bold;
- border-left:solid 5px blue;
- border-top: solid 5px blue;
- border-bottom: solid 5px blue;
- padding: 10px;
+ border-left:solid 8px blue;
 }
 
 dd {
- padding: 5px;
+ padding: 10px;
 }
 
 
