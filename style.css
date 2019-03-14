@@ -19,6 +19,7 @@ nav {
  
 li {
  background-color: orange;
+ border: bouble 1px blue;
  display: inline-block;
  width: 100px;
  height: 100px;
@@ -44,6 +45,7 @@ main {
 .intro p{
  background-color: lightgreen;
  inline-height: 10;
+ color: blue;
 }
 
 dl {
