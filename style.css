@@ -11,6 +11,7 @@ header h1 {
 ul {
  background-color: yellow;
  border: solid 1px black;
+ height: 80px;
  }
  
  
@@ -20,7 +21,7 @@ li {
  height: 50px;
  list-style: none;
  text-align: center;
- padding-top: 20px;
+ vertical-align: center;
  float:left;
   }
 
@@ -39,6 +40,7 @@ main {
 
 .intro {
   background-color: green;
+ inline-height: 1.5;
 }
 
 dl {
@@ -47,7 +49,9 @@ dl {
 
 dt {
  color: white;
+ font-weight: bold;
  background-color: brown;
+ padding: 5px;
 }
 
 dd {
@@ -65,12 +69,12 @@ dd {
 footer {
   background-color: gray;
  text-align: center;
+ vertical-align: bottom;
  height: 100px;
 }
 
 footer p{
  color: white;
- padding-top: 70px;
 }
 
 
