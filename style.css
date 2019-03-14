@@ -20,12 +20,12 @@ nav {
  
 li {
  background-color: orange;
- border: double 1px blue;
+ border: outset 3px blue;
  display: inline-block;
  width: 100px;
  height: 100px;
  border-radius: 30%;
- text-align: 50%;
+ vertical-align: middle;
   }
 
 div {
@@ -45,7 +45,7 @@ main {
 
 .intro p span {
  background-color: lightgreen;
- inline-height: 3;
+ inline-height: 10;
  color: blue;
 }
 
