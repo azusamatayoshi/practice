@@ -1,3 +1,6 @@
+body {
+ font-family: Verdana, Sans-serif;
+}
 
 
 header h1 {
@@ -17,7 +20,7 @@ nav {
  
 li {
  background-color: orange;
- border: bouble 1px blue;
+ border: double 1px blue;
  display: inline-block;
  width: 100px;
  height: 100px;
