@@ -20,12 +20,12 @@ nav {
  
 li {
  background-color: beige;
- border: solid 6px blue;
+ border: solid 3px blue;
  display: inline-block;
  width: 100px;
  height: 50px;
  border-radius: 30%;
- padding: 25px 5px;
+ padding: 30px 5px;
   }
 
 div {
@@ -45,7 +45,6 @@ main {
 
 .intro p span {
  background-color: lightgreen;
- padding: 10px 0;
  color: blue;
 }
 
