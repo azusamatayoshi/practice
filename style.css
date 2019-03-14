@@ -21,10 +21,8 @@ li {
  background-color: beige;
  border: solid 3px blue;
  display: inline-block;
- width: 100px;
- height: 50px;
  border-radius: 30%;
- padding: 30px 5px;
+ padding: 30px;
   }
 
 div {
@@ -38,17 +36,15 @@ main {
 }
 
 
-.intro p span {
- background-color: lightgreen;
-}
-
 dl {
  background-color: pink;
 }
 
 dt {
  font-weight: bold;
- border-left:solid 10px blue;
+ border-left:solid 5px blue;
+ border-top: solid 5px blue;
+ border-bottom: solid 5px blue;
  padding: 10px;
 }
 
