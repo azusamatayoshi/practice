@@ -4,8 +4,7 @@ body {
 
 
 header h1 {
- color: white;
- background-color: skyblue;
+ background-color: beige;
  padding: 50px;
  text-align: center;
 }
@@ -39,10 +38,6 @@ main {
 }
 
 
-.intro {
-  background-color: green;
-}
-
 .intro p span {
  background-color: lightgreen;
 }
@@ -53,7 +48,7 @@ dl {
 
 dt {
  font-weight: bold;
- border-left:solid 10px black;
+ border-left:solid 10px blue;
  padding: 10px;
 }
 
