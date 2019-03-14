@@ -5,15 +5,11 @@ body {
 
 
 header h1 {
- background-color: #ccffff;
- padding: 50px;
  text-align: center;
 }
 
 
 nav {
- background-color: yellow;
- margin: 0;
  box-sizing: border-box;
  text-align: center;
  }
@@ -34,7 +30,6 @@ div {
 }
 
 main {
- background-color: skyblue;
  margin: 0 100px;
 }
 
@@ -42,9 +37,6 @@ p {
  line-height: 2em;
 }
 
-dl {
- background-color: #ffcccc;
-}
 
 dt {
  font-weight: bold;
