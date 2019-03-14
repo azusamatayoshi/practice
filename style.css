@@ -13,6 +13,7 @@ nav {
  border: solid 1px black;
  padding: 100px;
  box-sizing: border-box;
+ text-align: center;
  }
  
  
@@ -64,7 +65,7 @@ footer {
  color: white;
   background-color: gray;
  text-align: center;
- vertical-align: bottom;
+ padding-top: 80%;
  height: 100px;
 }
 
