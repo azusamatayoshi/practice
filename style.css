@@ -20,7 +20,7 @@ nav {
  
 li {
  background-color: beige;
- border: solid 3px blue;
+ border: solid 3px #000066;
  display: inline-block;
  width:100px;
  border-radius: 30%;
@@ -28,7 +28,7 @@ li {
   }
 
 div {
- border-top: dotted 10px blue;
+ border-top: dotted 10px #000066;
  margin-top: 0 auto;
 }
 
@@ -47,7 +47,7 @@ dl {
 
 dt {
  font-weight: bold;
- border-left:solid 8px blue;
+ border-left:solid 8px #000066;
  padding-left: 8px;
 }
 
