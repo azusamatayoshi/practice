@@ -45,7 +45,6 @@ main {
 
 .intro p span {
  background-color: lightgreen;
- color: blue;
 }
 
 dl {
@@ -53,9 +52,8 @@ dl {
 }
 
 dt {
- color: white;
  font-weight: bold;
- background-color: brown;
+ border-left:solid 10px black;
  padding: 10px;
 }
 
