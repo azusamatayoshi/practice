@@ -19,7 +19,7 @@ li {
  background-color: orange;
  display: inline-block;
  width: 20%;
- 
+ border-radius: 30%;
   }
 
 div {
