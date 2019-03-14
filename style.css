@@ -4,14 +4,13 @@ body {
 
 
 header h1 {
- background-color: beige;
+ background-color: skyblue;
  padding: 50px;
  text-align: center;
 }
 
 
 nav {
- background-color: yellow;
  box-sizing: border-box;
  text-align: center;
  }
@@ -23,7 +22,7 @@ li {
  display: inline-block;
  width:100px;
  border-radius: 30%;
- padding: 30px;
+ padding: 20px;
   }
 
 div {
@@ -32,10 +31,13 @@ div {
 }
 
 main {
- background-color: beige;
+ background-color: skyblue;
  margin: 0 100px;
 }
 
+p {
+ line-height:150%;
+}
 
 dl {
  background-color: pink;
@@ -44,6 +46,7 @@ dl {
 dt {
  font-weight: bold;
  border-left:solid 8px blue;
+ padding-left: 5px;
 }
 
 dd {
@@ -52,8 +55,8 @@ dd {
 
 
 footer {
- color: white;
-  background-color: lightgray;
+ color: gray;
+  background-color: beige;
  text-align: center;
  padding: 50px 100px 10px;
 }
