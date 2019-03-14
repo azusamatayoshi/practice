@@ -43,9 +43,9 @@ main {
   background-color: green;
 }
 
-.intro p{
+.intro p span {
  background-color: lightgreen;
- inline-height: 10;
+ inline-height: 3;
  color: blue;
 }
 
