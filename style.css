@@ -43,14 +43,14 @@ main {
 }
 
 
-.merits ul li {
+.merits {
  list-style: none;
  font-weight: bold;
  border-left:solid 8px #000066;
  padding-left: 8px;
 }
 
-.merit p{
+.merit {
  padding: 5px;
  text-indent: 2em;
 }
