@@ -13,6 +13,7 @@ header h1 {
 nav {
  box-sizing: border-box;
  text-align: center;
+ border- bottom: dotted 5px #000066;
  }
  
 nav ul {
@@ -30,7 +31,6 @@ nav li {
   }
 
 div {
- border-top: dotted 10px #000066;
  margin-top: 0 auto;
 }
 
@@ -50,7 +50,7 @@ main {
  padding-left: 8px;
 }
 
-.merit p {
+.merit{
  padding: 5px;
  text-indent: 2em;
 }
