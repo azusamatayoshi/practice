@@ -43,16 +43,14 @@ main {
 }
 
 
-.merits p {
- list-style: none;
+dt {
  font-weight: bold;
  border-left:solid 8px #000066;
  padding-left: 8px;
 }
 
-.merit p{
+dd {
  padding: 5px;
- text-indent: 2em;
 }
 
 
