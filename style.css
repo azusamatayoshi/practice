@@ -43,7 +43,7 @@ main {
 }
 
 
-.merits ul li {
+.merits li {
  list-style: none;
  font-weight: bold;
  border-left:solid 8px #000066;
